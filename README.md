@@ -1,9 +1,9 @@
 ## Boas vindas ao meu perfil 🫦🧑‍🦽
 
-I'm Maria Eduada Antunes 🦇 🛺
+- I'm Maria Eduada Antunes 🦇 🛺
 
-Estou estudando no [Alura](https://cursos.alura.com.br/edutech) 🥀🇨🇫
+- Estou estudando no [Alura](https://cursos.alura.com.br/edutech) 🥀🇨🇫
 
-Aprendendo Java Script 🎮🌯
+- Aprendendo Java Script 🎮🌯
 
-I love baby reborn 🐤🫀
+- I love baby reborn 🐤🫀

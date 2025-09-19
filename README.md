@@ -6,9 +6,9 @@
 
 - Aprendendo Java Script 🎮🌯
 
-- I love baby reborn 🐤🫀
+- I love Clash Royale 🐤🫀
 
-- Ig: @duda.open
+- Ig: @duda.open 
 
 - Esse espaço é para organizar e compartilhar meus projetos.
 
